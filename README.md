@@ -37,6 +37,9 @@ Two workflows are used. One of which is accomplished with the use of a combinati
 - **Training and Testing**: The model is trained on the combined dataset, and its performance is tested using the iBeta Level 1 Liveness Detection Dataset.
 - **Classification**: The MobileNet model outputs a prediction, indicating whether the face is real or spoofed.
 
+## Document
+Document is availble in the repository.
+
 ## References
 - [CASIA FASD Dataset](https://www.kaggle.com/datasets/minhnh2107/casiafasd)
 - [LLC and CASIA Combined Dataset](https://www.kaggle.com/datasets/ahmedruhshan/lcc-fasd-casia-combined)
